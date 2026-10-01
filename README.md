@@ -5,7 +5,7 @@ against a target role, and runs a live mock interview with real-time
 feedback — built end-to-end on Zapier's chatbot platform.
 
 **🔗 Live Demo:** [ai-resume-to-interview-bot.zapier.app](https://ai-resume-to-interview-bot.zapier.app)
-
+**📄 Full Case Study PDF:** [Download here](AI-Resume-to-Interview-Coach-Portfolio-Case-Study.pdf)
 ---
 
 ## 📋 Overview
